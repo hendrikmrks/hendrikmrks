@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hendrik and I'm a System Engineer and SOftware developer, from Berlin</h2>
+<h2 align="left">Hi 👋! My name is Hendrik and I'm a System Engineer and Software developer, from Berlin</h2>
 
 ###
 
