@@ -1,14 +1,14 @@
-<h1 align="center">Hi, ich bin Hendrik 👋</h1>
+<h1 align="center">Hi, I'm Hendrik 👋</h1>
 
-<h3 align="center">System Engineer & Software Developer aus Berlin</h3>
+<h3 align="center">Software Developer based in Berlin</h3>
 
 <p align="center">
-  Ich betreue Infrastruktur und Systeme im Job und baue daneben eigene Web-Apps und Backends – hauptsächlich mit TypeScript/Next.js – mit zunehmendem Fokus auf KI-gestützte Features.
+  I build web apps and backends – mostly with TypeScript/Next.js – with a growing focus on AI-powered features.
 </p>
 
 <p align="center">
   <a href="mailto:kontakt@hendrik-beier.de">
-    <img src="https://img.shields.io/badge/E--Mail-kontakt%40hendrik--beier.de-informational?style=flat-square" alt="E-Mail" />
+    <img src="https://img.shields.io/badge/Email-kontakt%40hendrik--beier.de-informational?style=flat-square" alt="Email" />
   </a>
   <a href="https://github.com/hendrikmrks?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositories" />
@@ -17,69 +17,69 @@
 
 ###
 
-## 🧭 Über mich
+## 🧭 About Me
 
-- 🖥️ Arbeite als System Engineer und entwickle in meiner Freizeit eigene Web-Projekte, meist Full-Stack mit TypeScript
-- 🤖 Beschäftige mich viel mit **KI/LLM-Integration** – von Prompting bis zu KI-gestützten Features in Produktivanwendungen
-- 🏠 In der Freizeit dreht sich viel um **Smarthome & Automatisierung** – von Home Assistant bis zu eigenen kleinen Automatisierungs-Tools
-- 📬 Kontakt: [kontakt@hendrik-beier.de](mailto:kontakt@hendrik-beier.de)
+- 🖥️ I build full-stack web projects in my free time, mostly with TypeScript
+- 🤖 I spend a lot of time on **AI/LLM integration** – from prompting to AI-powered features in production apps
+- 🏠 Outside of coding, I'm into **smarthome & automation** – from Home Assistant to small automation tools of my own
+- 📬 Contact: [kontakt@hendrik-beier.de](mailto:kontakt@hendrik-beier.de)
 
 ###
 
-## 🚀 Projekte
+## 🚀 Projects
 
-*Alle folgenden Projekte sind private Freizeitprojekte und stehen in keinem Zusammenhang mit meiner beruflichen Tätigkeit.*
+*All projects below are personal side projects, built in my free time.*
 
 <table>
   <thead>
     <tr>
-      <th align="left">Projekt</th>
-      <th align="left">Beschreibung</th>
-      <th align="left">Tech-Stack</th>
-      <th align="left">Lizenz</th>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+      <th align="left">License</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/hendrikmrks/klick-and-zeugnis"><b>klick-and-zeugnis</b></a></td>
-      <td>Next.js-Anwendung, die Lehrkräfte mit KI-Unterstützung (OpenAI API) beim Formulieren von Schulzeugnistexten unterstützt.</td>
+      <td>Next.js app that helps teachers draft German school report-card texts with AI assistance (OpenAI API).</td>
       <td>Next.js 15, React 19, TypeScript, Tailwind CSS, MongoDB (Prisma), NextAuth.js, OpenAI API, Docker</td>
-      <td><img src="https://img.shields.io/github/license/hendrikmrks/klick-and-zeugnis" alt="Lizenz" /></td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/klick-and-zeugnis" alt="License" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hendrikmrks/linglet"><b>linglet</b></a></td>
-      <td>Gamifizierte Sprachlern-Web-App für den Wortschatz Deutsch ↔ brasilianisches Portugiesisch – mit XP, Streaks, Badges, Lernpfad, Bestenliste und XP-Shop.</td>
+      <td>Gamified language-learning web app for German ↔ Brazilian Portuguese vocabulary – with XP, streaks, badges, a learning path, leaderboard, and XP shop.</td>
       <td>Next.js 14, TypeScript, PostgreSQL, Prisma, Vitest, Docker</td>
-      <td><img src="https://img.shields.io/github/license/hendrikmrks/linglet" alt="Lizenz" /></td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/linglet" alt="License" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hendrikmrks/analyser"><b>analyser</b></a></td>
-      <td>Web-App zur Analyse des eigenen Spotify-Hörverhaltens (OAuth-Login): Top-Künstler/-Tracks, Genre-Analyse, "Music DNA", Diversitäts-Score sowie Teilen/Vergleichen des Profils.</td>
+      <td>Web app for analyzing your own Spotify listening habits (OAuth login): top artists/tracks, genre analysis, "Music DNA", diversity score, and a shareable/comparable profile.</td>
       <td>React 19, Vite, Node.js, Express, Docker</td>
-      <td><img src="https://img.shields.io/github/license/hendrikmrks/analyser" alt="Lizenz" /></td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/analyser" alt="License" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hendrikmrks/malta2900"><b>malta2900</b></a></td>
-      <td>Browserbasiertes Post-Apokalypse-Survival-Management-Spiel auf einem verlassenen Malta im Jahr 2900 – die Welt läuft serverseitig weiter, auch offline.</td>
+      <td>Browser-based post-apocalyptic survival management game set on an abandoned Malta in the year 2900 – the world keeps simulating server-side, even offline.</td>
       <td>Next.js 14, TypeScript, PostgreSQL, Prisma, NextAuth.js, Docker</td>
-      <td><img src="https://img.shields.io/github/license/hendrikmrks/malta2900" alt="Lizenz" /></td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/malta2900" alt="License" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hendrikmrks/wer-regiert-in"><b>wer-regiert-in</b></a></td>
-      <td>Interaktive SVG-Karte, die zeigt, welche Parteien/Koalitionen aktuell in den 16 deutschen Bundesländern regieren (Live-Seite inzwischen offline, Code als Referenz öffentlich).</td>
+      <td>Interactive SVG map showing which parties/coalitions currently govern each of Germany's 16 federal states (the live site is offline; the code stays public as a reference).</td>
       <td>React 18, Vite, Node.js, Express</td>
-      <td><img src="https://img.shields.io/github/license/hendrikmrks/wer-regiert-in" alt="Lizenz" /></td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/wer-regiert-in" alt="License" /></td>
     </tr>
     <tr>
       <td><a href="https://github.com/hendrikmrks/wizard-points"><b>wizard-points</b></a></td>
-      <td>Kleine Web-App zur Punkteberechnung für das Kartenspiel "Wizard" – Tipp und tatsächliche Stiche eingeben, Punktzahl erscheint sofort.</td>
+      <td>Small web app for scoring the card game "Wizard" – enter your bid and actual tricks won, get the round score instantly.</td>
       <td>Next.js 15, React 19, TypeScript, Tailwind CSS</td>
-      <td><img src="https://img.shields.io/github/license/hendrikmrks/wizard-points" alt="Lizenz" /></td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/wizard-points" alt="License" /></td>
     </tr>
   </tbody>
 </table>
 
-*Weitere Repos gibt's auf meinem [Profil](https://github.com/hendrikmrks?tab=repositories).*
+*More repos on my [profile](https://github.com/hendrikmrks?tab=repositories).*
 
 ###
 
