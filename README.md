@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kontakt@hendrik-beier.de">
+  <a href="mailto:github@hendrik-beier.de">
     <img src="https://img.shields.io/badge/Email-kontakt%40hendrik--beier.de-informational?style=flat-square" alt="Email" />
   </a>
   <a href="https://github.com/hendrikmrks?tab=repositories">
@@ -22,7 +22,7 @@
 - 🖥️ I build full-stack web projects in my free time, mostly with TypeScript
 - 🤖 I spend a lot of time on **AI/LLM integration** – from prompting to AI-powered features in production apps
 - 🏠 Outside of coding, I'm into **smarthome & automation** – from Home Assistant to small automation tools of my own
-- 📬 Contact: [kontakt@hendrik-beier.de](mailto:kontakt@hendrik-beier.de)
+- 📬 Contact: [github@hendrik-beier.de](mailto:github@hendrik-beier.de)
 
 ###
 
