@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:github@hendrik-beier.de">
-    <img src="https://img.shields.io/badge/Email-kontakt%40hendrik--beier.de-informational?style=flat-square" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-github%40hendrik--beier.de-informational?style=flat-square" alt="Email" />
   </a>
   <a href="https://github.com/hendrikmrks?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositories" />
