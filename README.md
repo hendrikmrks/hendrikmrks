@@ -3,7 +3,16 @@
 <h3 align="center">System Engineer & Software Developer aus Berlin</h3>
 
 <p align="center">
-  Ich baue Web-Apps und Backends – hauptsächlich mit TypeScript/Next.js – und setze zunehmend KI-gestützte Features in meinen Projekten um.
+  Ich betreue Infrastruktur und Systeme im Job und baue daneben eigene Web-Apps und Backends – hauptsächlich mit TypeScript/Next.js – mit zunehmendem Fokus auf KI-gestützte Features.
+</p>
+
+<p align="center">
+  <a href="mailto:kontakt@hendrik-beier.de">
+    <img src="https://img.shields.io/badge/E--Mail-kontakt%40hendrik--beier.de-informational?style=flat-square" alt="E-Mail" />
+  </a>
+  <a href="https://github.com/hendrikmrks?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repositories" />
+  </a>
 </p>
 
 ###
@@ -17,15 +26,56 @@
 
 ###
 
-## 🚀 Ausgewählte Projekte
+## 🚀 Projekte
 
-| Projekt | Beschreibung | Stack |
-|---|---|---|
-| [**wer-regiert-in**](https://github.com/hendrikmrks/wer-regiert-in) | Politik-Übersicht für Deutschland – zeigt, welche Parteien/Personen aktuell wo regieren (Bund, Länder, Kommunen). War live unter wer-regiert-in.de, Code ist open source. | JavaScript, Vite |
-| [**klick-and-zeugnis**](https://github.com/hendrikmrks/klick-and-zeugnis) | KI-gestütztes Tool, das Lehrkräften anhand vorgegebener Parameter automatisch Zeugnistexte formuliert. War live unter klick-and-zeugnis.de, Code ist open source. | Next.js, TypeScript, Prisma, MongoDB, OpenAI API |
-| [**linglet**](https://github.com/hendrikmrks/linglet) | Sprachlern-App mit Gamification-Elementen. | Next.js 14, TypeScript, Prisma, PostgreSQL |
-| [**malta2900**](https://github.com/hendrikmrks/malta2900) | Browserbasiertes Post-Apokalypse-Survival-Management-Spiel, angesiedelt auf einem verlassenen Malta im Jahr 2900. | TypeScript |
-| [**wizard-points**](https://github.com/hendrikmrks/wizard-points) | Kleines Tool zur Punkteberechnung für das Kartenspiel "Wizard". | TypeScript |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Projekt</th>
+      <th align="left">Beschreibung</th>
+      <th align="left">Tech-Stack</th>
+      <th align="left">Lizenz</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/hendrikmrks/klick-and-zeugnis"><b>klick-and-zeugnis</b></a></td>
+      <td>Next.js-Anwendung, die Lehrkräfte mit KI-Unterstützung (OpenAI API) beim Formulieren von Schulzeugnistexten unterstützt.</td>
+      <td>Next.js 15, React 19, TypeScript, Tailwind CSS, MongoDB (Prisma), NextAuth.js, OpenAI API, Docker</td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/klick-and-zeugnis" alt="Lizenz" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hendrikmrks/linglet"><b>linglet</b></a></td>
+      <td>Gamifizierte Sprachlern-Web-App für den Wortschatz Deutsch ↔ brasilianisches Portugiesisch – mit XP, Streaks, Badges, Lernpfad, Bestenliste und XP-Shop.</td>
+      <td>Next.js 14, TypeScript, PostgreSQL, Prisma, Vitest, Docker</td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/linglet" alt="Lizenz" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hendrikmrks/analyser"><b>analyser</b></a></td>
+      <td>Web-App zur Analyse des eigenen Spotify-Hörverhaltens (OAuth-Login): Top-Künstler/-Tracks, Genre-Analyse, "Music DNA", Diversitäts-Score sowie Teilen/Vergleichen des Profils.</td>
+      <td>React 19, Vite, Node.js, Express, Docker</td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/analyser" alt="Lizenz" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hendrikmrks/malta2900"><b>malta2900</b></a></td>
+      <td>Browserbasiertes Post-Apokalypse-Survival-Management-Spiel auf einem verlassenen Malta im Jahr 2900 – die Welt läuft serverseitig weiter, auch offline.</td>
+      <td>Next.js 14, TypeScript, PostgreSQL, Prisma, NextAuth.js, Docker</td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/malta2900" alt="Lizenz" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hendrikmrks/wer-regiert-in"><b>wer-regiert-in</b></a></td>
+      <td>Interaktive SVG-Karte, die zeigt, welche Parteien/Koalitionen aktuell in den 16 deutschen Bundesländern regieren (Live-Seite inzwischen offline, Code als Referenz öffentlich).</td>
+      <td>React 18, Vite, Node.js, Express</td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/wer-regiert-in" alt="Lizenz" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hendrikmrks/wizard-points"><b>wizard-points</b></a></td>
+      <td>Kleine Web-App zur Punkteberechnung für das Kartenspiel "Wizard" – Tipp und tatsächliche Stiche eingeben, Punktzahl erscheint sofort.</td>
+      <td>Next.js 15, React 19, TypeScript, Tailwind CSS</td>
+      <td><img src="https://img.shields.io/github/license/hendrikmrks/wizard-points" alt="Lizenz" /></td>
+    </tr>
+  </tbody>
+</table>
 
 *Weitere Repos gibt's auf meinem [Profil](https://github.com/hendrikmrks?tab=repositories).*
 
@@ -44,11 +94,17 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" title="Node.js" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="express logo" title="Express" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" title="Python" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql logo" title="PostgreSQL" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb logo" title="MongoDB" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="36" alt="prisma logo" title="Prisma" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker logo" title="Docker" />
   <img width="10" />
@@ -64,6 +120,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hendrikmrks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hendrikmrks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=hendrikmrks&theme=dark&hide_border=false" alt="streak stats" />
 </div>
 
 ###
