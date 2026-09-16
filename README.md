@@ -19,7 +19,7 @@
 
 ## 🧭 Über mich
 
-- 🖥️ Arbeite als System Engineer und entwickle daneben eigene Web-Projekte, meist Full-Stack mit TypeScript
+- 🖥️ Arbeite als System Engineer und entwickle in meiner Freizeit eigene Web-Projekte, meist Full-Stack mit TypeScript
 - 🤖 Beschäftige mich viel mit **KI/LLM-Integration** – von Prompting bis zu KI-gestützten Features in Produktivanwendungen
 - 🏠 In der Freizeit dreht sich viel um **Smarthome & Automatisierung** – von Home Assistant bis zu eigenen kleinen Automatisierungs-Tools
 - 📬 Kontakt: [kontakt@hendrik-beier.de](mailto:kontakt@hendrik-beier.de)
@@ -27,6 +27,8 @@
 ###
 
 ## 🚀 Projekte
+
+*Alle folgenden Projekte sind private Freizeitprojekte und stehen in keinem Zusammenhang mit meiner beruflichen Tätigkeit.*
 
 <table>
   <thead>
